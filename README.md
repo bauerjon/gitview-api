@@ -44,7 +44,7 @@ curl "https://app.gitview.com/organizations/<organization_id>/contributor_parent
   {
     "id": "9219bb45-5a59-4cf9-9fd9-54fcd1c79950",
     "name": "coolbot",
-    "username": 'coolbot'
+    "username": "coolbot"
   },
   {
     "id": "a023be6a-947e-427d-92cd-d075e5e6ceab",

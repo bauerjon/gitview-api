@@ -3,12 +3,21 @@
 The GitView Api is exclusive to paying customers for the Git Analytics platform [GitView.com](https://gitview.com/)
 
 - [Retrive Api Key](#retrive-api-key)
+- [Retrive Organization Id](#retrive-organization-id)
 - [Get Contributor Parents](#get-contributor-parents)
 - [Get Timeline Data](#get-timeline-data)
 
 ### Retrive Api Key
 
 Your key can be found in the Billing & Other Settings Section of your GitView Organization
+
+
+<img width="230" alt="Screen Shot 2021-10-23 at 4 23 39 PM" src="https://user-images.githubusercontent.com/5402488/138572025-f57bd070-b8a0-48dc-9d24-9d1d43f195cf.png">
+<img width="673" alt="Screen Shot 2021-10-23 at 4 23 45 PM" src="https://user-images.githubusercontent.com/5402488/138572026-a6659d30-5a8a-4933-bd4d-3b0b5cb2cc2a.png">
+
+### Retrive Organization Id
+
+Organization Id can be found in urls of most pages in GitView
 
 ### Get Contributor Parents
 

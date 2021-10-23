@@ -34,7 +34,7 @@ Returns Contributor Parents (or for all intents and purposes simply Contributors
 #### Example Request
 
 ```bash
-curl "https://app.gitview.com/organizations/<organization_id>/contributor_parents?api_key=<key>"
+curl "http://app.gitview.com/organizations/<organization_id>/contributor_parents?api_key=<key>"
 ```
 
 #### Example Response
@@ -95,7 +95,7 @@ Return various data in a timeline fashion
 #### Example Request
 
 ```bash
-curl "https://app.gitview.com/organizations/<org_id>/timeline?api_key=<key>&begin=2021-07-25&end=2021-10-23&period=week&unit=impact_no_outliers"
+curl "http://app.gitview.com/organizations/<org_id>/timeline?api_key=<key>&begin=2021-07-25&end=2021-10-23&period=week&unit=impact_no_outliers"
 ```
 
 #### Response Format
